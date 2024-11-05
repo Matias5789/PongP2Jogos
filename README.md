@@ -20,16 +20,17 @@ C#: Linguagem de programação usada para implementar a lógica do jogo, colisõ
 Visual Studio: Editor de código utilizado para escrever e testar o código C# integrado ao Unity.  
 ## Configuração e Instalação
 Clone o repositório para a sua máquina:  
-bash  
+```bash  
 Copiar código  
 git clone https://github.com/Matias5789/PongP2Jogos  
+```
 Abra o Unity Hub e selecione a versão compatível do Unity (recomendado: versão 2022.x ou superior).  
 Importe o projeto pelo Unity Hub e abra-o no editor Unity.  
 Certifique-se de que o Visual Studio esteja configurado para edição de scripts.  
-# Como Jogar  
+## Como Jogar  
 Controles: Utilize as teclas W e S para mover a raquete do jogador para cima e para baixo, respectivamente.  
 Objetivo: Impedir que a bola ultrapasse sua raquete e fazer a bola ultrapassar a raquete do adversário para marcar pontos.  
-# Mecânicas do Jogo  
+## Mecânicas do Jogo  
 (Descreva as mecânicas principais do jogo, como movimento da bola, colisões, aumento de velocidade, etc.)  
 
 ## Modos de Jogo
@@ -43,15 +44,18 @@ Contribuições são bem-vindas! Para contribuir, siga as etapas abaixo:
 
 Faça um fork do projeto.  
 Crie uma nova branch:  
-bash  
+```bash  
 Copiar código  
 git checkout -b feature/sua-feature  
-Commit suas alterações:  
-bash  
+Commit suas alterações:
+```
+```bash  
 Copiar código  
 git commit -m "Adiciona nova feature"  
-Envie para a branch principal:  
-bash  
+Envie para a branch principal:
+```
+```bash  
 Copiar código  
 git push origin feature/sua-feature  
-Abra um Pull Request no repositório original.  
+Abra um Pull Request no repositório original.
+```
