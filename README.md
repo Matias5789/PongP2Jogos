@@ -15,9 +15,9 @@ Este é um projeto de recriação do jogo clássico Pong usando Unity e C#. O ob
 Este projeto visa recriar o clássico jogo Pong com algumas melhorias e personalizações. Ao longo do desenvolvimento, foi usado o Unity para gerenciar a física e os componentes visuais, enquanto o código foi escrito em C# para controlar as lógicas de jogo e as mecânicas.
 
 ## Tecnologias Utilizadas
-Unity 2D: Engine de desenvolvimento usada para criação e manipulação dos elementos de jogo.  
-C#: Linguagem de programação usada para implementar a lógica do jogo, colisões, pontuações e movimentos.  
-Visual Studio: Editor de código utilizado para escrever e testar o código C# integrado ao Unity.  
+**Unity 2D**: Engine de desenvolvimento usada para criação e manipulação dos elementos de jogo.  
+**C#**: Linguagem de programação usada para implementar a lógica do jogo, colisões, pontuações e movimentos.  
+**Visual Studio**: Editor de código utilizado para escrever e testar o código C# integrado ao Unity.  
 ## Configuração e Instalação
 Clone o repositório para a sua máquina:  
 ```bash  
