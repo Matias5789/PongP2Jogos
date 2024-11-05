@@ -1,7 +1,7 @@
-<h1>Pong Clone - Unity Project</h1>
-<p>Este é um projeto de recriação do jogo clássico Pong usando Unity e C#. O objetivo do projeto é entender melhor o desenvolvimento de jogos 2D e aprimorar habilidades com Unity e programação em C#. O jogo segue a mecânica tradicional do Pong, com algumas melhorias de jogabilidade e funcionalidades adicionais.</p>
+## Pong Clone - Unity Project
+Este é um projeto de recriação do jogo clássico Pong usando Unity e C#. O objetivo do projeto é entender melhor o desenvolvimento de jogos 2D e aprimorar habilidades com Unity e programação em C#. O jogo segue a mecânica tradicional do Pong, com algumas melhorias de jogabilidade e funcionalidades adicionais.
 
-<h1>📋 Sumário</h1>
+## 📋 Sumário
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Configuração e Instalação](#configuração-e-instalação)
@@ -11,10 +11,10 @@
 - [Evoluções do Jogo Original](#evoluções-do-jogo-original)
 - [Contribuições](#contribuições)
 
-<h2>Sobre o Projeto</h2>
+## Sobre o Projeto
 Este projeto visa recriar o clássico jogo Pong com algumas melhorias e personalizações. Ao longo do desenvolvimento, foi usado o Unity para gerenciar a física e os componentes visuais, enquanto o código foi escrito em C# para controlar as lógicas de jogo e as mecânicas.
 
-<h2>Tecnologias Utilizadas</h2>
+## Tecnologias Utilizadas
 Unity 2D: Engine de desenvolvimento usada para criação e manipulação dos elementos de jogo.
 C#: Linguagem de programação usada para implementar a lógica do jogo, colisões, pontuações e movimentos.
 Visual Studio: Editor de código utilizado para escrever e testar o código C# integrado ao Unity.
@@ -22,7 +22,7 @@ Configuração e Instalação
 Clone o repositório para a sua máquina:
 bash
 Copiar código
-git clone https://github.com/seuusuario/nome-do-repositorio.git
+git clone https://github.com/Matias5789/PongP2Jogos
 Abra o Unity Hub e selecione a versão compatível do Unity (recomendado: versão 2022.x ou superior).
 Importe o projeto pelo Unity Hub e abra-o no editor Unity.
 Certifique-se de que o Visual Studio esteja configurado para edição de scripts.
@@ -32,13 +32,13 @@ Objetivo: Impedir que a bola ultrapasse sua raquete e fazer a bola ultrapassar a
 Mecânicas do Jogo
 (Descreva as mecânicas principais do jogo, como movimento da bola, colisões, aumento de velocidade, etc.)
 
-<h2>Modos de Jogo</h2>
+## Modos de Jogo
 (Liste os modos de jogo, por exemplo: modo contra IA, modo para dois jogadores, etc.)
 
-<h2>Evoluções do Jogo Original</h2>
+## Evoluções do Jogo Original
 (Explique melhorias e evoluções em relação ao jogo Pong original, como gráficos atualizados, novas mecânicas, efeitos visuais ou sonoros, etc.)
 
-<h2>Contribuições</h2>
+## Contribuições
 Contribuições são bem-vindas! Para contribuir, siga as etapas abaixo:
 
 Faça um fork do projeto.
